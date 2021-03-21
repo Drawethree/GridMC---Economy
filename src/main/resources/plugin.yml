@@ -1,0 +1,5 @@
+name: EconomySystem
+version: ${project.version}
+main: io.gridmc.economysystem.EconomySystem
+api-version: 1.13
+authors: [Drawethree]
